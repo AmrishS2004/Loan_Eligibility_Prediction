@@ -249,13 +249,13 @@ This project is licensed under the MIT License.
 
 **Amrish Sasikumar**
 - Email: amrish.s2004p@gmail.com
-- LinkedIn: [linkedin.com/in/amrish-sasikumar](https://linkedin.com/in/amrish-sasikumar)
+- LinkedIn: [linkedin.com/in/amrish-sasikumar](https://www.linkedin.com/in/amrish-s-2aa191220/)
 
 ---
 
 ## 🙏 Acknowledgments
 
-- Dataset source: Kaggle Playground Series
+- Dataset source: [Kaggle Playground Series](https://www.kaggle.com/competitions/playground-series-s4e10)
 - Inspired by best practices in Kaggle competitions and production ML systems
 - Built with scikit-learn, XGBoost, and LightGBM ecosystems
 
