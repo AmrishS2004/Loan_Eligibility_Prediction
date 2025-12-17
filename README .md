@@ -176,7 +176,7 @@ The script generates:
 
 ## 📊 Example Output
 
-![Terminal Output](output_screenshot.png)
+![Terminal Output](https://github.com/AmrishS2004/Loan_Eligibility_Prediction/blob/main/Output.jpg)
 *Actual model training output showing ensemble performance*
 
 ```
